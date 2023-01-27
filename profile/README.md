@@ -2,12 +2,12 @@
 
 ## Welcome to MakerGram!
 
-MakerGram is an Open Community
+[MakerGram](https://makergram.com) is an Open [Community](https://makergram.com/community)
 for Makers and hardware enthusiasts to grow further!
 
 A community made by makers and for makers!
 
-A great place where you can think, brainstorm, share, discuss and transform your ideas into the real stuff.
+A great place where you can think, brainstorm, share, [discuss](https://makergram.com/community) and transform your ideas into the real stuff.
 
 <!--
 
